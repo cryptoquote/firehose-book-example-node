@@ -1,0 +1,16 @@
+{
+  "name": "cryptoquote-firehose-book-example",
+  "version": "1.0.0",
+  "description": "How to process level 2 data from the CryptoQuote.io Firehose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "ws": "^6.0.0"
+  }
+}
